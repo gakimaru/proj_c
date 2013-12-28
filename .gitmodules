@@ -1,0 +1,12 @@
+[submodule "lib/individual"]
+	path = lib/individual
+	url = git@github.com:gakimaru/common_lib_individual_for_studio_x.git
+	branch = proj_c
+[submodule "lib/common"]
+	path = lib/common
+	url = git@github.com:gakimaru/common_lib.git
+	branch = proj_c
+[submodule "lib/proj"]
+	path = lib/proj
+	url = git@github.com:gakimaru/proj_c_lib.git
+	branch = master
